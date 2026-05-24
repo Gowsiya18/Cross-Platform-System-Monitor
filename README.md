@@ -7,7 +7,7 @@ Visual Studio 2022 or VS Code
 Windows OS (for full CPU monitoring support)
 
 **Run Steps**
-git clone <your-repo-url>
+git clone <https://github.com/Gowsiya18/Cross-Platform-System-Monitor.git>
 cd ScoutDataAgentMonitor
 dotnet restore
 dotnet build
